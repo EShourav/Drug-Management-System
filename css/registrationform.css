@@ -1,0 +1,6 @@
+/* CSS Document */
+
+body.stop-scrolling {
+background-image:url(2.png);
+  height: 100%;
+  overflow: hidden; }
